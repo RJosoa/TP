@@ -5,5 +5,10 @@ height: 100vh;
 }
 
 .box {
-    background-color: #0B0A07;
+    background-image: linear-gradient(to right top, #0b0a07, #0f130b, #0c1a14, #052021, #012530);
+}
+
+.gauche {
+    background-color: #edf2f3;
+
 }
