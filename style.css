@@ -31,3 +31,8 @@ p{
  .adresse {
     gap: 21px;
  }
+
+ .h2Gauche {
+    border-bottom: 2px solid black;
+
+ }
