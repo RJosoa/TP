@@ -10,5 +10,9 @@ height: 100vh;
 
 .gauche {
     background-color: #edf2f3;
+    border-radius: 0 45px 45px 0;
+}
 
+.droite {
+    color: white;
 }
