@@ -42,7 +42,6 @@ p{
  .nom {
     font-size: 4em;
     font-family: 'Bebas Neue', sans-serif;
-
  }
 
  .metier {
@@ -58,5 +57,7 @@ p{
  .droite h2 {
     border-bottom: 1px solid white;
     padding: 10px 0 ;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 2px;
 
  }
