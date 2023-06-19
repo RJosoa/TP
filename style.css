@@ -21,3 +21,13 @@ p{
     margin: 0 !important;
     padding: 0 !important;
 }
+
+.telephone{
+    gap: 20px;
+}
+.email {
+    gap: 19px;
+}
+ .adresse {
+    gap: 21px;
+ }
