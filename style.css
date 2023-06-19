@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 
 body {
@@ -61,8 +61,4 @@ p{
     font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 2px;
 
- }
-
- .experience {
-    /* margin-bottom: 200px; */
  }
