@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
 body {
 width: 100%;
 height: 100vh;
-
 }
 
 .box {
@@ -34,5 +36,16 @@ p{
 
  .h2Gauche {
     border-bottom: 2px solid black;
+
+ }
+
+ .nom {
+    font-size: 4em;
+    font-family: 'Bebas Neue', sans-serif;
+
+ }
+
+ .metier {
+    background-image: linear-gradient(to left, #2e1e0f00,#2e1e0f77, #2E1E0F);;
 
  }
