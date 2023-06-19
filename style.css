@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 
 body {
@@ -39,6 +39,9 @@ p{
     border-bottom: 2px solid black;
 
  }
+ .education H2 {
+    font-family: 'Noto Sans', sans-serif;
+ }
 
  .nom {
     font-size: 4em;
@@ -60,5 +63,7 @@ p{
     padding: 10px 0 ;
     font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 2px;
+    margin-bottom: 0;
 
  }
+
